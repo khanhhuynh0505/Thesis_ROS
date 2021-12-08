@@ -2,7 +2,7 @@
 Topic: Autonomous robot
 
 Including research on:
-* Turtlebot3 Burger
 * ROS
 * OpenCV for Python
 * CNN
+* * Turtlebot3 Burger
