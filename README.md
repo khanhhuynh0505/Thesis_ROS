@@ -1,5 +1,5 @@
 # Thesis_ROS (Fall 2021)
-Topic: Autonomous robot
+## Topic: Autonomous robot
 
 Including research on:
 * ROS
@@ -8,6 +8,6 @@ Including research on:
 * Turtlebot3 Burger
 * Gazebo (simulation)
 
-# Description
+## Description
 Create a controller script in Python for a Turtlebot3 Burger with regard to line following and sign detection purposes.
-Simulate the robot in Gazebo
+Simulate the robot in Gazebo.
